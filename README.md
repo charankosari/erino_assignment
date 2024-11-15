@@ -1,15 +1,24 @@
-﻿# To start the pproject 
+# Erino Assignment
 
-# git clone https://github.com/charankosari/erino_assignment
+This project includes both the frontend and backend for the Erino assignment.
 
-#To start frontend
-# cd frontend
-# npm install
-# npm start
+## How to Run the Project
 
-#To start backend
-# cd backend
-# npm install
-# npm start
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/charankosari/erino_assignment
+   cd erino_assignment
+To start the backend
 
-#open http://localhost:5173 for the website 
+  ```bash
+  cd backend
+  npm install
+  npm start
+```
+To start the frontend
+```bash
+cd frontend
+npm install
+npm start
+```
+#go to http://localhost:5173 for the website
